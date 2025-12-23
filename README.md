@@ -66,4 +66,4 @@ SE_Project/ ├── Core/Src/ │ ├── main.c # Boucle principale et orch
 
 ---
 
-© 2024 - Projet Station Météo STM32
+© 2025 - Projet Station Météo STM32
